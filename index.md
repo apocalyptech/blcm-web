@@ -12,8 +12,6 @@ moment).
 The easiest way to run Borderlands 2 / Pre-Sequel mods is to install the
 Borderlands Community Mod Manager, or BLCMM.
 
-[![LightChaosman's Intro Video](https://i1.ytimg.com/vi/VkRgUqru3oU/hqdefault.jpg)](https://www.youtube.com/watch?v=VkRgUqru3oU)
-
 {% include youtubeplayer.html id=page.blcmmID %}
 
 BLCMM will take care of hex-editing your game so that the console is
