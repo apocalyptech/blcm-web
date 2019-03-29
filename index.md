@@ -1,3 +1,6 @@
+---
+blcmmID: VkRgUqru3oU
+---
 # Hello Vault Hunter!
 
 This page aims to be the first stop for folks interested in running mods for
@@ -10,6 +13,8 @@ The easiest way to run Borderlands 2 / Pre-Sequel mods is to install the
 Borderlands Community Mod Manager, or BLCMM.
 
 [![LightChaosman's Intro Video](https://i1.ytimg.com/vi/VkRgUqru3oU/hqdefault.jpg)](https://www.youtube.com/watch?v=VkRgUqru3oU)
+
+{% include youtubeplayer.html id=page.blcmmID %}
 
 BLCMM will take care of hex-editing your game so that the console is
 usable for executing mods, and will manage your mods by combining them all
