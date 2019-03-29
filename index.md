@@ -71,6 +71,8 @@ address dozens of gameplay and balance related issues.  It is available from
 [Github](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
 or [Nexus](https://www.nexusmods.com/borderlands2/mods/50).
 
+The current version of BL2 UCP is 4.1, and was released in July, 2018.
+
 ## Borderlands: The Pre-Sequel Unofficial Community Patch (TPS UCP)
 
 [![TPS UCP Logo](img/tps_ucp.jpg)](img/tps_ucp.jpg)
@@ -78,6 +80,8 @@ or [Nexus](https://www.nexusmods.com/borderlands2/mods/50).
 The TPS UCP has very similar aims as the BL2 UCP.  It is available from
 [Github](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 or [Nexus](https://www.nexusmods.com/borderlandspresequel/mods/8).
+
+The current version of TPS UCP is 2.2, and was released in August, 2018.
 
 ## BL2 Reborn
 
