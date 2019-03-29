@@ -103,6 +103,8 @@ modding, and share their creations, is the [Shadow's Evil Hideout](https://disco
 discord channel.  Stop by and say hello!  We're a friendly bunch.  There is also
 a channel for getting help as a user, if you're not able to get mods working properly.
 
+BL2 Reborn has [their own Discord server as well](https://discord.gg/Rakbg5F).
+
 # Writing Mods
 
 BL2/TPS modding is easier than you might think.  If you're interested in modding, the
