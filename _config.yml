@@ -2,6 +2,7 @@ remote_theme: apocalyptech/blcm-web-theme
 
 # Apparently for our theme, these plugins may be needed
 plugins:
+  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
