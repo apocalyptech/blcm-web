@@ -99,3 +99,9 @@ modding, and share their creations, is the [Shadow's Evil Hideout](https://disco
 discord channel.  Stop by and say hello!  We're a friendly bunch.  There is also
 a channel for getting help as a user, if you're not able to get mods working properly.
 
+# Writing Mods
+
+BL2/TPS modding is easier than you might think.  If you're interested in modding, the
+official [BLCMods Wiki](https://github.com/BLCM/BLCMods/wiki) has a lot of information
+which may help you out.  The Shadow's Evil Hideout discord server is also full of
+people who'd be happy to help you out.
