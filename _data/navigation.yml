@@ -1,0 +1,9 @@
+# vim: set expandtab tabstop=2 shiftwidth=2:
+
+# main links.  I suspect I'll want these to be links to "real"
+# pages eventually but for now, just testing...
+main:
+  - title: "Running Mods"
+    url: "#running-mods"
+  - title: "Getting Mods"
+    url: "#getting-mods"
