@@ -1,7 +1,6 @@
 ---
 permalink: /getting-mods/
 ---
-
 # Getting Mods
 
 There are two primary places to acquire mods for BL2 and TPS: Github and
