@@ -96,10 +96,13 @@ time.  BL2 Reborn is available on [Nexus](https://www.nexusmods.com/borderlands2
 ## FFYLands
 
 FFYLands is a huge game overhaul which makes game harder, but more rewarding.  As
-with Reborn, do not use UCP at the same time as FFYLands.  It is availble on
+with Reborn, do not use UCP at the same time as FFYLands.  It is available on
 [Nexus](https://www.nexusmods.com/borderlands2/mods/57).
 
 # Community / Support
+
+If you have any problems installing or running  these mods please see the [FAQ](https://bit.ly/2un6scY)
+first as most questions will be answered there. For further support see bellow.
 
 The longest-running place for BL2/TPS modders to hang out, discuss mods, get help with
 modding, and share their creations, is the [Shadow's Evil Hideout](https://discord.gg/0YjZxbVBS9b3bXUS)
