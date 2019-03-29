@@ -7,11 +7,11 @@ description: >-
   and The Pre-Sequel.
 remote_theme: apocalyptech/blcm-web-theme
 minimal_mistakes_skin: dark
+include: ["_pages"]
+breadcrumbs: true
 
 # The example minimal_mistakes theme uses this, so why not?
 markdown: kramdown
-
-breadcrumbs: true
 
 # Apparently for our theme, these plugins may be needed
 plugins:
@@ -22,6 +22,7 @@ plugins:
   - jekyll-feed
   - jemoji
 
+# Footer Links
 footer:
   links:
     - label: "BL2 + TPS Mods @ Github"
@@ -31,3 +32,11 @@ footer:
     - label: "TPS Mods @ Nexus"
       url: "https://www.nexusmods.com/borderlandspresequel/"
       
+# Defaults for various page types
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
