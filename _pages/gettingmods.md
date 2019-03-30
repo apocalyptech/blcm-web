@@ -1,5 +1,5 @@
 ---
-permalink: /getting-mods/
+permalink: /gettingmods/
 ---
 # Getting Mods
 
