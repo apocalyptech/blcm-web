@@ -1,7 +1,7 @@
 ---
-permalink: /gettingmods/
+permalink: /finding-mods/
 ---
-# Getting Mods
+# Finding Mods
 
 There are two primary places to acquire mods for BL2 and TPS: Github and
 Nexus Mods.  Github has been the primary place to store mods for some time
