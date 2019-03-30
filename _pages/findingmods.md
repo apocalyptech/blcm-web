@@ -15,9 +15,9 @@ not super straightforward.  When you browse to a mod file you want to
 download, it will either have a `Raw` button or a `Download` button, in the
 upper right hand corner of the file's contents:
 
-[![Raw Button](img/github_raw.png)](img/github_raw.png)
+[![Raw Button](../img/github_raw.png)](../img/github_raw.png)
 
-[![Download Button](img/github_download.png)](img/github_download.png)
+[![Download Button](../img/github_download.png)](../img/github_download.png)
 
 Right-click on that button and choose `Save Link As...` to save the file to
 your computer, and then use BLCMM to import the mod.
