@@ -4,12 +4,12 @@
 # pages eventually but for now, just testing...
 main:
   - title: "Running Mods"
-    url: "#running-mods"
-  - title: "Getting Mods"
-    url: "#getting-mods"
+    url: "/"
+  - title: "Finding Mods"
+    url: "/finding-mods/"
   - title: "Major Mod Packs"
-    url: "#major-mod-packs"
+    url: "/mod-packs"
   - title: "Community / Support"
-    url: "#community--support"
+    url: "/community"
   - title: "Writing Mods"
-    url: "#writing-mods"
+    url: "/writing-mods"
