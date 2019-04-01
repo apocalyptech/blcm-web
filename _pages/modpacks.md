@@ -36,12 +36,6 @@ for you. Currently including 155+ mods and over 650 changes!  Note that BL2 Rebo
 already includes UCP - you should not try to use both UCP and Reborn at the same
 time.  BL2 Reborn is available on [Nexus](https://www.nexusmods.com/borderlands2/mods/115).
 
-## FFYLands
-
-FFYLands is a huge game overhaul which makes game harder, but more rewarding.  As
-with Reborn, do not use UCP at the same time as FFYLands.  It is available on
-[Nexus](https://www.nexusmods.com/borderlands2/mods/57).
-
 # Other Links
 
-For information about how to use these mods, see [Running Mods](/).
+For information about how to use these mods, see [Running Mods](/running-mods/).

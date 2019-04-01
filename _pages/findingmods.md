@@ -39,6 +39,6 @@ mods.
 
 # Other Links
 
-For information about how to use the mods you've downloaded, see [Running Mods](/).
+For information about how to use the mods you've downloaded, see [Running Mods](/running-mods/).
 For information on some of the major mod packs you might want to use as a "base,"
 see [Major Mod Packs](/mod-packs/).
