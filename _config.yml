@@ -14,7 +14,6 @@ breadcrumbs: true
 markdown: kramdown
 
 # Posts
-permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
 
