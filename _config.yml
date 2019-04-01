@@ -13,6 +13,11 @@ breadcrumbs: true
 # The example minimal_mistakes theme uses this, so why not?
 markdown: kramdown
 
+# Posts
+permalink: /:title/
+paginate: 5
+paginate_path: /page:num/
+
 # Apparently for our theme, these plugins may be needed
 plugins:
   - jekyll-include-cache
