@@ -15,7 +15,7 @@ markdown: kramdown
 # Posts
 paginate: 5
 paginate_path: /page:num/
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 
 # Apparently for our theme, these plugins may be needed
 plugins:
@@ -44,14 +44,3 @@ defaults:
       type: pages
     values:
       layout: single
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
