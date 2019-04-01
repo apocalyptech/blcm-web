@@ -33,6 +33,11 @@ game should be ready to run mods!
 If you want to return to this screen at any time, you can get to it with the
 `Tools -> Setup game files for mods` menu option.
 
+**NOTE:** Cracked versions of Borderlands are very often not able to run mods
+properly, since BL2+TPS modding relies on using Gearbox's "hotifx" mechanisms
+to do their work.  Also, the Russian-localized version of BL2 can't currently
+be patched.
+
 # Managing Mods
 
 Because of how BL2/TPS modding works, all of your mods that you use have to
