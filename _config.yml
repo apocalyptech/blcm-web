@@ -13,6 +13,9 @@ include: ["_pages"]
 markdown: kramdown
 
 # Posts
+# If we want some fancier category support on posts in the future,
+# it would possibly be worth looking into some of the stuff mentioned,
+# for instance, here: https://blog.webjeda.com/jekyll-categories/
 paginate: 5
 paginate_path: /page:num/
 permalink: /:year/:month/:day/:title/

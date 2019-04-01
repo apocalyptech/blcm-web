@@ -1,6 +1,5 @@
 ---
 title: "BLCMM 2019 Released"
-categories: [blcmm]
 ---
 
 # BLCMM Is Updated
