@@ -1,5 +1,5 @@
 ---
-blcmmID: VkRgUqru3oU
+layout: home
 ---
 # Hello Vault Hunter!
 
