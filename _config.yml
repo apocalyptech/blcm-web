@@ -40,3 +40,9 @@ defaults:
       type: pages
     values:
       layout: single
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
