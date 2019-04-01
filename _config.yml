@@ -15,7 +15,6 @@ markdown: kramdown
 
 # Posts
 paginate: 5
-paginate_path: /page:num/
 
 # Apparently for our theme, these plugins may be needed
 plugins:
