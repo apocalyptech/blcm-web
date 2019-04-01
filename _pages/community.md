@@ -15,5 +15,7 @@ you're not able to get mods working properly.
 
 BL2 Reborn has [their own Discord server as well](https://discord.gg/Rakbg5F).
 
-There's another [Bordlerands Modding Discord](https://discordapp.com/invite/9dYYN6Y) available
-as well, though the author of this page doesn't really know anything about it.
+There's another [Bordlerands Discord](https://discordapp.com/invite/9dYYN6Y) available
+as well, which appears to have some modding chat on it, though the author of this page
+doesn't really know anything about it.  It appears to be a more general-purpose Borderlands
+Discord.
