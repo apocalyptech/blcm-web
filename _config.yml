@@ -8,7 +8,6 @@ description: >-
 remote_theme: apocalyptech/blcm-web-theme
 minimal_mistakes_skin: dark
 include: ["_pages", "_posts"]
-breadcrumbs: true
 
 # The example minimal_mistakes theme uses this, so why not?
 markdown: kramdown
@@ -16,6 +15,7 @@ markdown: kramdown
 # Posts
 paginate: 5
 paginate_path: /page:num/
+permalink: /:title/
 
 # Apparently for our theme, these plugins may be needed
 plugins:
