@@ -56,6 +56,12 @@ next to their names.  Use `File -> Save` (or `Ctrl-S`) to save the patch file
 after each change!  See [Finding Mods](/finding-mods/) for some tips on finding
 mods to use.
 
+Note that if BLCMM was able to detect your Borderlands installation directory,
+its Open/Save dialogs will have a button on the side to go directly to your
+`Binaries` directory, so you shouldn't have to find it yourself:
+
+[![BLCMM Binaries Buttons](/img/blcmm-binaries-buttons.png)](/img/blcmm-binaries-buttons.png)
+
 # Actually Running Your Patch File
 
 Once you have your patch file in the game's `Binaries` directory, you should
@@ -73,7 +79,7 @@ but you have to have been to the main menu at least once first.  Once you get
 to the main menu, wait a few seconds for the game to talk to the Gearbox servers,
 then hit `Esc` and then "yes" to go back out to that *Press any key* screen.
 Then hit your console key and use the same `exec` commands that Windows users
-use.
+use.  Note that there are a [few extra gotchas when running mods on Mac/Linux](https://github.com/BLCM/BLCMods/wiki/Linux-and-Mac-Setup-Gotchas).
 
 If you are running UCP for Borderlands 2, you will get a message on the screen
 telling you to check your character's skill tree in-game to make sure that the
