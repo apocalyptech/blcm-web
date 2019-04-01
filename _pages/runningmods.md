@@ -11,7 +11,7 @@ BLCMM.
 
 {% include youtubeplayer.html id=page.blcmmID %}
 
-[Click here to download and install BLCMM](https://www.dropbox.com/sh/rsljh5c55s8e9ah/AABMuarIfYCxJb8GiSY1IF6La?dl=0) *(last updated: [fill in a date or something])*
+[Click here to download and install BLCMM](https://www.dropbox.com/sh/rsljh5c55s8e9ah/AABMuarIfYCxJb8GiSY1IF6La?dl=0) *(Most Recent Version: v1.1.8, on November 9, 2018)*
 
 BLCMM will auto-update to the latest version, if needed, from its splash
 screen.
