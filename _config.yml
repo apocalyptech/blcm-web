@@ -7,7 +7,7 @@ description: >-
   and The Pre-Sequel.
 remote_theme: apocalyptech/blcm-web-theme
 minimal_mistakes_skin: dark
-include: ["_pages"]
+include: ["_pages", "_posts"]
 breadcrumbs: true
 
 # The example minimal_mistakes theme uses this, so why not?
