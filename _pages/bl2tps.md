@@ -4,6 +4,9 @@ permalink: /bl2tps/
 
 # Borderlands 2 / The Pre-Sequel Modding
 
+[![Borderlands 2 Steam Logo](/img/logo_bl2.jpg)](/img/logo_bl2.jpg)
+[![Borderlands: TPS Steam Logo](/img/logo_tps.jpg)](/img/logo_tps.jpg)
+
 This page was created by members of [Shadow's Evil Hideout](/community/),
 which is primarily involved with BL2/TPS modding (as opposed to BL1), so
 the majority of information on this site is focused on BL2+TPS.  The BL2/TPS
