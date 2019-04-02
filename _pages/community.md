@@ -4,7 +4,7 @@ permalink: /community/
 
 # Community / Support
 
-If you have any problems installing or running BL2/TPS modsl, please see the
+If you have any problems installing or running BL2/TPS mods, please see the
 [FAQ](https://bit.ly/2un6scY) first as most questions will be answered there.
 For further support, though, see below.
 
