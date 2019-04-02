@@ -12,6 +12,12 @@ main:
     url: "/community"
 
 side:
+  - title: "Main Links"
+    children:
+      - title: "Home"
+        url: "/"
+      - title: "Community"
+        url: "/community/"
   - title: "BL1 Modding"
     children:
       - title: "Testing"
@@ -23,7 +29,7 @@ side:
       - title: "Finding Mods"
         url: "/finding-mods/"
       - title: "Major Mod Packs"
-        url: "/mod-packs"
+        url: "/mod-packs/"
       - title: "Writing Mods"
-        url: "/writing-mods"
+        url: "/writing-mods/"
 
