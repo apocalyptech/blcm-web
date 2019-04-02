@@ -100,6 +100,5 @@ properly, see the [Community / Support](/community/) section.
 
 # Other Links
 
-For information on some of the major mod packs you might want to use as a "base,"
-see [Major Mod Packs](/mod-packs/).  For information on how to find other mods to
-use, see [Finding Mods](/finding-mods/).
+For information on some of the major mod packs, see [Major Mod Packs](/mod-packs/).
+For information on how to find other mods to use, see [Finding Mods](/finding-mods/).

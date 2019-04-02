@@ -4,9 +4,10 @@ permalink: /mod-packs/
 
 # Major Mod Packs
 
-There are a few "major" mod packs which usually serve as a basis for modding.
-Many folks will use these as their base patch file and then add more mods to
-them as they desire.
+There are a few "major" mod packs which are popular.  These can often be
+used as a "base" modpack, which you can then add more mods to if you like,
+though keep in mind that not all mods are compatible, and you may get
+unexpected results when using some mods in combination with these.
 
 ## Borderlands 2 Unofficial Community Patch (BL2 UCP)
 
@@ -18,6 +19,14 @@ address dozens of gameplay and balance related issues.  It is available from
 or [Nexus](https://www.nexusmods.com/borderlands2/mods/50).
 
 The current version of BL2 UCP is 4.1, and was released in July, 2018.
+
+## Vanilla Enhanced (for Borderlands 2)
+
+Vanilla Enhanced is a pared-down version of UCP which *only* contains bugfixes,
+reskins, and some QoL changes, but without trying to affect actual balance or
+gameplay.  For someone who is mostly interested in the bugfix aspects of UCP,
+but doesn't want any gameplay changes, this may be for you.  Vanilla Enhanced
+is available on [Nexus](https://www.nexusmods.com/borderlands2/mods/88).
 
 ## Borderlands: The Pre-Sequel Unofficial Community Patch (TPS UCP)
 
@@ -34,7 +43,9 @@ The current version of TPS UCP is 2.2, and was released in August, 2018.
 If you want to experience Borderlands 2 in a new way, this modpack is exactly
 for you. Currently including 155+ mods and over 650 changes!  Note that BL2 Reborn
 already includes UCP - you should not try to use both UCP and Reborn at the same
-time.  BL2 Reborn is available on [Nexus](https://www.nexusmods.com/borderlands2/mods/115).
+time.  Reborn changes quite a bit about the game, so definitely be careful when
+using other mods alongside it.  BL2 Reborn is available on
+[Nexus](https://www.nexusmods.com/borderlands2/mods/115).
 
 # Other Links
 
