@@ -9,7 +9,7 @@ main:
   - title: "BL2/TPS Modding"
     url: "/bl2tps/"
   - title: "Community / Support"
-    url: "/community"
+    url: "/community/"
 
 side:
   - title: "Main Links"
@@ -20,10 +20,12 @@ side:
         url: "/community/"
   - title: "BL1 Modding"
     children:
-      - title: "Testing"
-        url: "/doesnotexist/"
+      - title: "Overview"
+        url: "/bl1/"
   - title: "BL2/TPS Modding"
     children:
+      - title: "Overview"
+        url: "/bl2tps/"
       - title: "Running Mods"
         url: "/running-mods/"
       - title: "Finding Mods"
