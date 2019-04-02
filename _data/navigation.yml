@@ -4,13 +4,26 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "Running Mods"
-    url: "/running-mods/"
-  - title: "Finding Mods"
-    url: "/finding-mods/"
-  - title: "Major Mod Packs"
-    url: "/mod-packs"
+  - title: "BL1 Modding"
+    url: "/bl1/"
+  - title: "BL2/TPS Modding"
+    url: "/bl2tps/"
   - title: "Community / Support"
     url: "/community"
-  - title: "Writing Mods"
-    url: "/writing-mods"
+
+side:
+  - title: "BL1 Modding"
+    children:
+      - title: "Testing"
+        url: "/doesnotexist/"
+  - title: "BL2/TPS Modding"
+    children:
+      - title: "Running Mods"
+        url: "/running-mods/"
+      - title: "Finding Mods"
+        url: "/finding-mods/"
+      - title: "Major Mod Packs"
+        url: "/mod-packs"
+      - title: "Writing Mods"
+        url: "/writing-mods"
+

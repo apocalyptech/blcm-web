@@ -8,6 +8,8 @@ description: >-
 remote_theme: apocalyptech/blcm-web-theme
 minimal_mistakes_skin: dark
 include: ["_pages"]
+sidebar:
+  nav: "side"
 
 # The example minimal_mistakes theme uses this, so why not?
 markdown: kramdown
