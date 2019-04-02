@@ -32,6 +32,8 @@ plugins:
 # Footer Links
 footer:
   links:
+    - label: "BL1 Mods @ Nexus"
+      url: "https://www.nexusmods.com/borderlands/"
     - label: "BL2 + TPS Mods @ Github"
       url: "https://github.com/BLCM/BLCMods"
     - label: "BL2 Mods @ Nexus"
