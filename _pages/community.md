@@ -17,12 +17,13 @@ working properly.
 
 Other Discord servers related to Borderlands modding:
 
-- BL2 Reborn has [their own Discord server](https://discord.gg/Rakbg5F).
+- A younger community Discord server [also exists](https://discord.gg/x5uQjE6), specifically
+  geared towards BL2/TPS modding, like Shadow's Evil Hideout.
 
 - There's another [Borderlands Discord](https://discordapp.com/invite/9dYYN6Y) available
   as well, which appears to have some modding chat on it, though the author of this page
   doesn't really know anything about it.  It appears to be a more general-purpose Borderlands
   Discord, and may have more presence for console users, as opposed to just PC.
 
-- A newer community Discord server [also exists](https://discord.gg/x5uQjE6), specifically
-  geared towards BL2/TPS modding, like Shadow's Evil Hideout.
+- BL2 Reborn has [their own Discord server](https://discord.gg/Rakbg5F).
+
