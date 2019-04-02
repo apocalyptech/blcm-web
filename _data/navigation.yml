@@ -2,7 +2,7 @@
 
 # main links.
 main:
-  - title: "Home / News"
+  - title: "Home"
     url: "/"
   - title: "BL1 Modding"
     url: "/bl1/"
@@ -14,7 +14,7 @@ main:
 side:
   - title: "Main Links"
     children:
-      - title: "Home"
+      - title: "Home / News"
         url: "/"
       - title: "Community"
         url: "/community/"
