@@ -41,8 +41,8 @@ be patched.
 # Managing Mods
 
 Because of how BL2/TPS modding works, all of your mods that you use have to
-be combined into a *single* file to run from the console.  Many folks start
-with a bigger modpack like UCP or BL2 Reborn and then add more mods to that
+be combined into a *single* file to run from the console.  Some folks start
+with a bigger modpack like UCP, and then add more mods to that
 file.  You can get some information about those modpacks on the
 [Major Mod Packs](/mod-packs) page.  If you're using one of those modpacks,
 save it in your game's `Binaries` directory.  When you open BLCMM, it should
