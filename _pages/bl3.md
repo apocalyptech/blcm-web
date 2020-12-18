@@ -8,8 +8,9 @@ permalink: /bl3/
 
 As of late December, 2020, we finally have some user-friendly methods of
 running Borderlands 3 mods.  The functionality we have now is roughly the
-same as what we had in the pre-SDK days of BL2 and TPS, so things like
-a UCP are entirely possible for BL3 now as well.
+same as what we had in the pre-SDK days of BL2 and TPS, so writing a mod
+like UCP is entirely possible in BL3 (though a BL3 UCP does not yet exist,
+nor is one currently in development).
 
 We've arranged the BL3 Modding information here into a couple different
 pages depending on what you're interested in doing.  Click through for
