@@ -48,6 +48,8 @@ side:
         url: "/bl3/"
       - title: "Running Mods"
         url: "/bl3-running-mods/"
+      - title: "Finding Mods"
+        url: "/bl3-finding-mods/"
       - title: "Writing Mods"
         url: "/bl3-writing-mods/"
 
