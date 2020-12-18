@@ -46,7 +46,7 @@ side:
     children:
       - title: "Overview"
         url: "/bl3/"
-      - title: "Running/Finding Mods"
+      - title: "Running Mods"
         url: "/bl3-running-mods/"
       - title: "Writing Mods"
         url: "/bl3-writing-mods/"

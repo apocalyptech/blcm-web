@@ -1,5 +1,5 @@
 ---
-title: "Borderlands 3 Modding (with B3HM) Now Available!
+title: "Borderlands 3 Modding (with B3HM) Now Available!"
 ---
 
 # Borderlands 3 Modding (with B3HM) Now Available!
