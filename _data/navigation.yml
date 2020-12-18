@@ -22,6 +22,10 @@ side:
     children:
       - title: "Overview"
         url: "/bl1/"
+      - title: "Major Mods"
+        url: "/bl1-major-mods/"
+      - title: "Mod Creation"
+        url: "/bl1-mod-creation/"
   - title: "BL2/TPS Modding"
     children:
       - title: "Overview"
@@ -34,4 +38,5 @@ side:
         url: "/mod-packs/"
       - title: "Writing Mods"
         url: "/writing-mods/"
-
+      - title: "SDK Mods"
+        url: "/sdk-mods/"
