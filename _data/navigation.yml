@@ -8,6 +8,8 @@ main:
     url: "/bl1/"
   - title: "BL2/TPS Modding"
     url: "/bl2tps/"
+  - title: "BL3 Modding"
+    url: "/bl3/"
   - title: "Community / Support"
     url: "/community/"
 
@@ -40,3 +42,12 @@ side:
         url: "/writing-mods/"
       - title: "SDK Mods"
         url: "/sdk-mods/"
+  - title: "BL3 Modding"
+    children:
+      - title: "Overview"
+        url: "/bl3/"
+      - title: "Running/Finding Mods"
+        url: "/bl3-running-mods/"
+      - title: "Writing Mods"
+        url: "/bl3-writing-mods/"
+
