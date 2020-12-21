@@ -27,12 +27,14 @@ a variety of methods.  You can find B3HM in these locations:
 The B3HM project has [documentation right at its github page](https://github.com/c0dycode/BL3HotfixWebUI/wiki/B3HM-Wiki).
 
 For the DLL version, it's recommended that you use
-[FromDarkHell's BL3DX11Injection](https://github.com/FromDarkHell/BL3DX11Injection/releases)
+[FromDarkHell's BL3DX11Injection/PluginLoader](https://github.com/FromDarkHell/BL3DX11Injection/releases)
 to inject the B3HM into the Borderlands 3 process.  For the EXE version, just
 download the EXE and give it a run.
 
 See the [B3HM documentation](https://github.com/c0dycode/BL3HotfixWebUI/wiki/B3HM-Wiki) for
-further information about how to use the app!
+further information about how to use the app!  There's also an [easy-to-follow
+HOWTO about running PluginLoader + B3HM](https://docs.google.com/document/d/1gdJX7eje3v-S7INIX5ZzIvaLfzGaWjauB2rcPgPqslw),
+written by FromDarkHell.
 
 # Finding Mods
 
