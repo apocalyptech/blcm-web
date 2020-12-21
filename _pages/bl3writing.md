@@ -40,7 +40,8 @@ you'll want to look into:
 One invaluable resource to look at, of course, is existing hotfixes.  There's a few
 places to look to take a look at those:
 
-- This repository contains a lot of known-working examples
+- The main [BL3 mod repository](https://github.com/BLCM/bl3mods/wiki) contains a lot of
+  known-working examples.
 - Gearbox's official hotfixes have been being collected since very shortly after the
   game launch, at [the bl3hotfixes repo](https://github.com/BLCM/bl3hotfixes/).
 - A Google Sheets of the combined set of Gearbox-provided hotfixes is also available,
