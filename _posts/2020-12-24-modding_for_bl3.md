@@ -1,6 +1,6 @@
 ---
 title: "Borderlands 3 Modding (with B3HM) Now Available!"
-b3hmTrailerID: Fqccn4sj3ig
+b3hmHowtoID: KYgUzKomXrk
 ---
 
 # Borderlands 3 Modding (with B3HM) Now Available!
@@ -11,7 +11,7 @@ code, we're thrilled to announce that a user-friendly way of running
 mods for Borderlands 3 is now available!  The app which makes it
 possible is called B3HM.
 
-{% include youtubeplayer.html id=page.b3hmTrailerID %}
+{% include youtubeplayer.html id=page.b3hmHowtoID %}
 
 You can read about running BL3 Mods yourself on our [Running BL3 Mods](/bl3-running-mods)
 page, but the gist is that you first need to download c0dycode's

@@ -1,6 +1,6 @@
 ---
 permalink: /bl3-running-mods/
-b3hmTrailerID: Fqccn4sj3ig
+b3hmHowtoID: KYgUzKomXrk
 ---
 # Running Borderlands 3 Mods
 
@@ -14,8 +14,6 @@ is where [B3HM](https://www.nexusmods.com/borderlands3/mods/244) (Borderlands 3
 Hotfix Merger) comes in!
 
 # B3HM (Borderlands 3 Hotfix Merger)
-
-{% include youtubeplayer.html id=page.b3hmTrailerID %}
 
 B3HM is a tool written by c0dycode to merge in custom hotfixes for BL3 to pick up.
 It's available either as a standalone EXE, or as a DLL which you can inject in
@@ -34,7 +32,9 @@ download the EXE and give it a run.
 See the [B3HM documentation](https://github.com/c0dycode/BL3HotfixWebUI/wiki/B3HM-Wiki) for
 further information about how to use the app!  There's also an [easy-to-follow
 HOWTO about running PluginLoader + B3HM](https://docs.google.com/document/d/1gdJX7eje3v-S7INIX5ZzIvaLfzGaWjauB2rcPgPqslw),
-written by FromDarkHell.
+written by FromDarkHell, and a tutorial video by FromDarkHell:
+
+{% include youtubeplayer.html id=page.b3hmHowtoID %}
 
 # Finding Mods
 
