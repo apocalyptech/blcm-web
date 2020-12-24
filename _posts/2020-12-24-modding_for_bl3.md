@@ -25,6 +25,8 @@ some mods to use.  The [Running BL3 Mods](/bl3-running-mods) has some
 more details on that as well, but the best place to look at the moment
 is the [BL3 ModCabinet Wiki](https://github.com/BLCM/bl3mods/wiki).
 
-If you have trouble getting BL3 modding going, feel free to join *mumblemumble*
-for help.
+If you have trouble getting BL3 modding going, you can ask questions at the
+[B3HM Nexusmods Page](https://www.nexusmods.com/borderlands3/mods/244), or
+free to join [Shadow's Evil Hideout Discord](https://discord.gg/shadowevil)
+and ask in the BL3 Modding Help channel there.
 
