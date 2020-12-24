@@ -19,9 +19,8 @@ and knowing how to dive into attributes using hotfix syntax, etc, will definitel
 make the transition to BL3 hotfix modding much easier.
 
 The main resource for getting used to writing these kind of hotfix mods is
-the main [BLCMods Wiki](https://github.com/BLCM/BLCMods/wiki).  The Borderlands 3
-links are near the bottom of the main page.  Here's some of the main pages
-you'll want to look into:
+the main [BLCMods Wiki](https://github.com/BLCM/BLCMods/wiki/Borderlands-3-Modding-Info).
+Here's some of the main pages you'll want to look into:
 
 - [Accessing BL3 Data](https://github.com/BLCM/BLCMods/wiki/Accessing-Borderlands-3-Data) -
   Since we don't have something like BLCMM for BL3 modding, one of the bigger
